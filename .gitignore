@@ -1,0 +1,12 @@
+build/
+*.log
+*.idsig
+local.properties
+.DS_Store
+Thumbs.db
+
+# Signing material is deliberately not part of the public repository.
+keystore/
+private/
+*.jks
+*.keystore
