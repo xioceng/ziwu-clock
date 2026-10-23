@@ -5,7 +5,7 @@
 >
 > [GitHub Releases](https://github.com/xioceng/ziwu-clock/releases) · [下载 v1.1.0 APK](https://github.com/xioceng/ziwu-clock/releases/download/v1.1.0/ziwu-1.1.0.apk)
 
-一款为 Android 手机打造的中文动态壁纸：把**万年历、二十四节气和十二时辰经络流注**放进同一枚会呼吸的表盘。全部画面由 Canvas 实时绘制，随时辰换色，星尘、流云与四时花木缓慢流动。
+一款为 Android 手机打造的中文动态壁纸：把**万年历、二十四节气和十二时辰经络流注**放进同一枚会呼吸的表盘。全部画面由 Canvas 实时绘制，随时辰换色，星尘、流云与四时花木缓慢流动。(ai编写的程序，可能有些要求不完善)
 
 ![设计预览](screenshots/preview.png)
 
