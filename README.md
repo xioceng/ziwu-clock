@@ -3,7 +3,7 @@
 > GitHub：**[xioceng/ziwu-clock](https://github.com/xioceng/ziwu-clock)**  
 > GitHub 仓库地址只支持 ASCII 字符，所以 slug 使用 `ziwu-clock`；仓库标题、描述和界面均使用中文「子午流注时钟」。
 >
-> [GitHub Releases](https://github.com/xioceng/ziwu-clock/releases) · [下载 v1.1.0 APK](dist/zhiwu-1.1.0.apk)
+> [GitHub Releases](https://github.com/xioceng/ziwu-clock/releases) · [下载 v1.1.0 APK](https://github.com/xioceng/ziwu-clock/releases/download/v1.1.0/ziwu-1.1.0.apk)
 
 一款为 Android 手机打造的中文动态壁纸：把**万年历、二十四节气和十二时辰经络流注**放进同一枚会呼吸的表盘。全部画面由 Canvas 实时绘制，随时辰换色，星尘、流云与四时花木缓慢流动。
 
@@ -66,6 +66,11 @@ APK：`dist/zhiwu-1.1.0.apk`（SHA-256：`05F4C07788A884523A923670EDAA91866AC072
 ## 构建
 
 项目不依赖 Gradle，使用 Android SDK 命令行工具直接构建；这样在没有 Android Studio 的机器上也能产出签名 APK。
+
+```bash
+git clone https://github.com/xioceng/ziwu-clock.git
+cd ziwu-clock
+```
 
 需要：
 
