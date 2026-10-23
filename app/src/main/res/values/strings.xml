@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">知午 · 子午流注</string>
+    <string name="wallpaper_name">知午 · 十二时辰</string>
+    <string name="wallpaper_description">以十二时辰为刻度，观气血流注与万年历节气。实时运转，随时辰变色。</string>
+    <string name="author">知午 ZHIWU</string>
+
+    <string name="brand_sub">子午流注 · 万年历</string>
+    <string name="live">动态壁纸</string>
+    <string name="preview_label">实时预览</string>
+    <string name="preview_hint">轻触预览切换配色</string>
+    <string name="current_label">此刻</string>
+    <string name="set_wallpaper">设为动态壁纸</string>
+    <string name="open_picker">打开系统壁纸选择</string>
+    <string name="appearance">外观</string>
+    <string name="appearance_sub">自动配色会随十二时辰流转</string>
+    <string name="display">显示</string>
+    <string name="seconds">显示秒数</string>
+    <string name="seconds_sub">表盘中央显示秒针数字</string>
+    <string name="motion">动态效果</string>
+    <string name="motion_sub">星尘、流云与四时花木</string>
+    <string name="health">经络提示</string>
+    <string name="health_sub">显示当令经络的养生短语</string>
+    <string name="set_note">系统会打开壁纸预览。选择「知午 · 十二时辰」，可设为桌面或桌面与锁屏。</string>
+    <string name="footer">以十二时辰为刻度，顺时而居</string>
+    <string name="version">版本 1.1.0 · 本地计算，不联网</string>
+    <string name="theme_auto">自动</string>
+    <string name="theme_ink">墨夜</string>
+    <string name="theme_jade">青瓷</string>
+    <string name="theme_cinnabar">朱砂</string>
+    <string name="theme_paper">素笺</string>
+    <string name="wallpaper_set_failed">无法打开系统壁纸预览，请从桌面长按进入「壁纸」后选择「知午」。</string>
+    <string name="about">关于</string>
+    <string name="about_text">「知午」把万年历、二十四节气与十二时辰经络流注放在同一枚表盘上。所有历法与节气均在本地推算，不收集任何数据。\n\n日柱按公历日显示；节气交接时刻由 lunar-java 依天文历算推求，四舍五入到分钟。\n\n十二时辰经络采用十二经纳子法；养生短语仅作传统文化展示，不构成医疗建议。</string>
+</resources>

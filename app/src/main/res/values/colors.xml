@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_bg">#070A12</color>
+    <color name="app_bg_soft">#0E1422</color>
+    <color name="ink">#0A0E18</color>
+    <color name="ivory">#F2EBDD</color>
+    <color name="muted">#8F938F</color>
+    <color name="gold">#D8B36A</color>
+    <color name="gold_bright">#F0D49A</color>
+    <color name="cinnabar">#B5462F</color>
+    <color name="ic_launcher_background">#070A12</color>
+</resources>
